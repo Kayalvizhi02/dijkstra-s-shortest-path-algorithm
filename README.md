@@ -28,7 +28,6 @@ Display the route sequence.
 
 ![map](https://user-images.githubusercontent.com/75413726/167609768-a7e30483-2a65-4645-a82d-cd6e8953c71e.jpeg)
 
-
 ## PROGRAM:
 ```python
 
@@ -212,7 +211,7 @@ print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 ```
 ## OUTPUT:
 
-![img](https://user-images.githubusercontent.com/75413726/167612674-7e2ba868-f383-4a7f-810e-e555d476f5e3.jpg)
+![img](https://user-images.githubusercontent.com/75413726/167647606-c034cff9-a02f-4339-8c8a-eb9bcdaf448d.jpg)
 
 ## RESULT:
 
