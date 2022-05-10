@@ -4,7 +4,7 @@
 To develop a code to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
 
 ## THEORY:
-Dijkstra's Algorithm finds the shortest path between a given node (which is called the "source node") and all other nodes in a graph. This algorithm uses the weights of the edges to find the path that minimizes the total distance (weight) between the source node and all other nodes.
+To implement Best-First_Search ( BFS ) algorithm to find the route between an initial state to a final state. Something like google maps. We create a dictionary to act as the dataset for the search alogrithm, containing all the distances between all the nodes ( Places ).
 
 ## DESIGN STEPS:
 
@@ -15,13 +15,13 @@ Identify a location in the google map:
 Select a specific number of nodes with distance
 
 ### STEP 3:
-Import required packages.
+Create a dictionary with all the node pairs (keys) and their respective distances as the values.
 
 ### STEP 4:
-Include each node and its distance separately in the dictionary data structure.
+Implement the search algorithm by passing any node and f(node) to find the Best route.
 
 ### STEP 5:
-End of program.
+Display the route sequence.
 
 
 ## ROUTE MAP:
